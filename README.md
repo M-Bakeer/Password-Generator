@@ -25,3 +25,11 @@ To run the script manually or modify the code:
 1. Download the `PassGenerator.py` file.
 2. Open your terminal or command prompt in that folder.
 3. In your terminal, run the following command: `python PassGenerator.py`.
+
+### 🎨 Customization: Adding a Personal Icon
+The current version uses the default system icon to ensure compatibility across all environments. If you would like to add a custom `.ico` file:
+
+ * **In the Code:** Add the following line in the GUI Setup section:
+    ```python
+    root.iconbitmap("your_icon.ico")
+    ```
