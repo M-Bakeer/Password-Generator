@@ -1,4 +1,4 @@
-#Python Password Generator
+# Python Password Generator
 ### Desktop Application (Tkinter)
 
 ## 📌 Project Overview
