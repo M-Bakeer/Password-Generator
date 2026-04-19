@@ -14,3 +14,14 @@ This is a basic password generator with a simple GUI genrating random passwords 
 * **Language:** Python 3.12+
 * **Libraries:** `tkinter`, `random`, `string`
 * **Architecture:** Event-driven GUI
+
+## 🚀 Usage & Installation
+
+### **For Users (Standalone App)**
+If you are on Windows and wish to use the application without installing Python, simply download `PassGenerator.exe` and it is ready to run. No setup required.
+
+### **For Developers (Running from Source)**
+To run the script manually or modify the code:
+1. Download the `PassGenerator.py` file.
+2. Open your terminal or command prompt in that folder.
+3. In your terminal, run the following command: `python PassGenerator.py`.
